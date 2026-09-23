@@ -7,3 +7,5 @@ It allows users to:
 - choose one of those towns and explore its healthcare resource profile in more detail.
 
 The app uses Streamlit, Pandas, and Plotly.
+
+Public app link: https://msba325-app-f4cuim6ye7ptehj9z3afad.streamlit.app/
